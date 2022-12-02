@@ -1,0 +1,79 @@
+[
+  {
+    "id": "design",
+    "image": {
+      "name": "UI",
+      "url": "/client/image/icon_design.png"
+    },
+    "name": "Design",
+    "description": "We are capable of building eye-catching UX/UI design",
+    "package": [
+      {
+        "name": "Basic",
+        "image": {
+          "name": "Basic Design",
+          "url": "/client/image/basic_design.png"
+        },
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, veritatis.",
+        "serviceList": ["Example1", "Example2", "Example3", "Example4"],
+        "duration": 0,
+        "price": 20
+      },
+      {
+        "name": "Advance",
+        "image": {
+          "name": "",
+          "url": ""
+        },
+        "description": "Lorem consectetur adipisicing elit. Officia, veritatis.",
+        "serviceList": ["Example5", "Example2", "Example3", "Example4"],
+        "duration": 10,
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "web",
+    "image": {
+      "name": "Web Dev",
+      "url": "/client/image/icon_web.png"
+    },
+    "name": "Web Development",
+    "description": "We are capable of building modern web applications and responsive web pages",
+    "package": [
+      {
+        "name": "Basic",
+        "image": {
+          "name": "Basic Web",
+          "url": ""
+        },
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, veritatis.",
+        "serviceList": ["Example1", "Example2", "Example3", "Example4"],
+        "duration": 0,
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": "lecture",
+    "image": {
+      "name": "Lecture",
+      "url": "/client/image/icon_lecture.png"
+    },
+    "name": "Lecturing",
+    "description": "We are capable of lecturing new generations of web developers",
+    "package": [
+      {
+        "name": "Basic",
+        "image": {
+          "name": "Basic Lecture",
+          "url": ""
+        },
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, veritatis.",
+        "serviceList": ["Example1", "Example2", "Example3", "Example4"],
+        "duration": 0,
+        "price": 70
+      }
+    ]
+  }
+]

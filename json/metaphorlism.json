@@ -1,0 +1,26 @@
+{
+  "name": "Metaphorlism",
+  "contact": [
+    {
+      "platform": {
+        "name": "Facebook",
+        "image": "/client/image/icon_facebook.png"
+      },
+      "url": "https://facebook.com/Metaphorlism"
+    },
+    {
+      "platform": {
+        "name": "LinkedIn",
+        "image": "/client/image/icon_linkedin.png"
+      },
+      "url": "https://linkedin.com/in/Metaphorlism"
+    },
+    {
+      "platform": {
+        "name": "Email",
+        "image": "/client/image/icon_email.png"
+      },
+      "url": "Metaphorlism@gmail.com"
+    }
+  ]
+}
